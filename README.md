@@ -10,4 +10,7 @@ What I need from Laravel before being able to adopt it to my projects:
     * vector result set and debug output
  * First class Firebase support
  * First class authentication using LDAP
- * Cookieless session support 
+ * Cookieless session support
+ * Better folder organization
+ * Better logger
+ * Being able to install it without having to use composer 
