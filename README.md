@@ -11,6 +11,7 @@ What I need from Laravel before being able to adopt it to my projects:
  * First class Firebase support
  * First class authentication using LDAP
  * Cookieless session support
+ * Middleware for security rules
  * Better folder organization
     * I need all folders under the app folder (for example: logs not in `storage/logs` but in `app/logs`, view not in `resources/views` but in `app/views`, routes `app/routes.php` and not in `routes/web.php` etc. )
  * Better logger
