@@ -7,7 +7,7 @@ What I need from Laravel before being able to adopt it to my projects:
  * Implicit routes support
  * Add a better driver for MicrosoftSQL
     * stored procedure call support
-    * vector result set and debug output
+    * vector for multiple result set of a single query and debug output
  * First class Firebase support
  * First class authentication using LDAP
  * Cookieless session support
