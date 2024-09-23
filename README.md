@@ -8,6 +8,7 @@ What I need from Laravel before being able to adopt it to my projects:
  * Add a better driver for MicrosoftSQL
     * stored procedure call support
     * vector for multiple result set of a single query and debug output
+    * another side effect is that if you have an output from the SQL query and after that you call RAISERROR, instead of being able to catch the error raised in SQL you will get: Connection is busy with results for another command
  * First class Firebase support
  * First class authentication using LDAP
  * Cookieless session support
